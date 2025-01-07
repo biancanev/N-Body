@@ -1,0 +1,10 @@
+{
+    "km_per_pixel" : 200,
+    "mass_stability_scale" : 1e-15,
+    "distance_stability_scale" : 10,
+    "G" : 6.67e-11,
+    "dt" : 2 ,
+    "TRACER" : true,
+    "LOGGING" : false,
+    "bodies" : []
+}
